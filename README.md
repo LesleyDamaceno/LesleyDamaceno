@@ -1,10 +1,11 @@
+
+## Lesley Damaceno  
+
 <div>
   <img align="right" alt="LesleyDamaceno-Banner" width = "325px" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc21ybG05MDBvMG9vdHBjMzJham4yMnRycGRoamhrcmxxN2E0MjA0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"
-<div>
-  
-## Lesley Damaceno
+<div> 
 
-- 🌱 Sou estudante de Ciência de Dados
+- 🌱 Sou estudante de Ciência de Dados 
 - 👯 Valorizo ambientes colaborativos e inclusivos
 - 🤔 Acredito no aprendizado contínuo
 - ⚡ Sou licenciada em Física e Matemática
@@ -14,8 +15,6 @@
 <div>
   <a href="https://www.linkedin.com/in/lesley-damaceno/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-
-##
 
 <div style="display: inline_block"><br>
   <img align="center" alt="LesleyDamaceno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
