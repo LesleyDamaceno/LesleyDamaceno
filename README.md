@@ -1,4 +1,4 @@
-## Olá, eu sou a Lesley Damaceno
+ght## Olá, eu sou a Lesley Damaceno
 
 
 - 🌱 Sou estudante de Ciência de Dados
@@ -10,7 +10,7 @@
 
 <div>
   <a href="https://beacons.ai/lesleydamaceno">
-  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lesleydamaceno&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   
 </div>
 
