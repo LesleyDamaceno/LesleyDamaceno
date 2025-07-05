@@ -3,7 +3,7 @@
 
 - 🌱 Sou estudante de Ciência de Dados
 - 👯 Valorizo ambientes colaborativos e inclusivos
-- 🤔 Procuro oportunidades para aprendizado contínuo
+- 🤔 Acredito no aprendizado contínuo
 - ⚡ Sou licenciada em Física e Matemática
 - ♾️ Neurodiversidade: Sou Autista Nível 1 de suporte
 - 😄 Pronouns: Ela/Dela
