@@ -1,5 +1,8 @@
+<div>
+  <img align="right" alt="LesleyDamaceno-Banner" width = "325px" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc21ybG05MDBvMG9vdHBjMzJham4yMnRycGRoamhrcmxxN2E0MjA0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"
+<div>
+  
 ## Lesley Damaceno
-
 
 - 🌱 Sou estudante de Ciência de Dados
 - 👯 Valorizo ambientes colaborativos e inclusivos
