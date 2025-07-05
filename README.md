@@ -7,6 +7,7 @@
 - ⚡ Sou licenciada em Física e Matemática
 - ♾️ Neurodiversidade: Sou Autista Nível 1 de suporte
 - 😄 Pronouns: Ela/Dela
+- 👇 Saiba mais
 <div>
   <a href="https://www.linkedin.com/in/lesley-damaceno/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
@@ -28,7 +29,7 @@
 ##
 <div>
   <a href="https://beacons.ai/lesleydamaceno">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lesleydamaceno&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lesleydamaceno&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lesleydamaceno&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
