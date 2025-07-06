@@ -27,9 +27,9 @@
 
 ##
 <div>
-  <a href="https://github.com/LesleyDamaceno">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LesleyDamaceno&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LesleyDamaceno&layout=compact&langs_count=16&theme=dracula"/>
+  <a href="https://github.com/lesleydamaceno">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lesleydamaceno&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lesleydamaceno&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
 ##
