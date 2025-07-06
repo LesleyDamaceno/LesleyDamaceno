@@ -34,4 +34,4 @@
 
 ##
 
-<h2>🚀 Sempre em construção — aprendendo sempre!<h2>
+<h2>🚀 Sempre em construção — aprendendo a cada projeto!<h2>
