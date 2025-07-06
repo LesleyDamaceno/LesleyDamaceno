@@ -26,13 +26,9 @@
 </div>
 
 ##
-<div>
-  <a href="https://github.com/LesleyDamaceno">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LesleyDamaceno&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LesleyDamaceno&layout=compact&langs_count=16&theme=dark">
-</div>
 
+![Lesley Damaceno's GitHub stats](https://github-readme-stats.vercel.app/api?username=LesleyDamaceno&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LesleyDamaceno&theme=radical)](https://github.com/LesleyDamaceno/github-readme-stats)
 
-##
 
 <h2>🚀 Sempre em construção — aprendendo a cada projeto!<h2>
